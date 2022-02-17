@@ -260,7 +260,7 @@ if __name__ == "__main__":
     db = DB()
     app = Main(root)
     app.pack()
-    root.title("Husehold update")
+    root.title("Update")
     root.geometry("1450x750+100+50")
     root.resizable(False,False)
     root.mainloop()
